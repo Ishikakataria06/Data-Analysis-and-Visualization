@@ -16,8 +16,9 @@ The analysis performed on the Netflix dataset involved exploring various aspects
 The dataset contains smartphone attributes including product names, actual and discount prices, star ratings, review counts, storage capacities, display sizes, camera specifications, RAM, and brands.
 
 **Analysis**:
-Price Sensitivity: How do actual and discounted prices influence ratings and reviews?
-Quality Perception: Is there a correlation between star ratings and product specifications?
-Brand Loyalty: How do brands compare in ratings and consumer preference?
-Feature Preferences: Which features impact customer satisfaction the most?
+- Price Sensitivity: How do actual and discounted prices influence ratings and reviews?
+- Quality Perception: Is there a correlation between star ratings and product specifications?
+- Brand Loyalty: How do brands compare in ratings and consumer preference?
+- Feature Preferences: Which features impact customer satisfaction the most?
+- 
 Insights from this analysis can guide businesses in optimizing marketing strategies, pricing, and product features to better meet customer needs.
