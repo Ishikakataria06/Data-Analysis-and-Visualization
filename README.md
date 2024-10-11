@@ -20,5 +20,5 @@ The dataset contains smartphone attributes including product names, actual and d
 - Quality Perception: Is there a correlation between star ratings and product specifications?
 - Brand Loyalty: How do brands compare in ratings and consumer preference?
 - Feature Preferences: Which features impact customer satisfaction the most?
-- 
+
 Insights from this analysis can guide businesses in optimizing marketing strategies, pricing, and product features to better meet customer needs.
